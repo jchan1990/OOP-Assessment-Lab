@@ -1,0 +1,29 @@
+1. Describe the difference between a Class and an Object.
+The difference between a Class and an Object is that a class is basically a
+blueprint. The blueprint describes the properties and foundations of the object.
+An object on the other-hand is an instance of a class, it is a static piece of
+code that consists of attributes which don't change during the execution of a
+program
+
+2. What keyword do you use to turn a normal Class into a Subclass? (choose one)
+  b. extends
+
+3. Describe the difference between public and private?
+Public means that it's accessible by all and the values can be manipulated by
+anyone. Private on the other-hand is only accessible and visible only to their
+Class
+
+4. Can a subclass access a private method of its parent class? (choose one)
+  b. No
+
+
+5. Define the term constructor.
+A constructor creates an instance of an object
+
+6. Can you access a static method of a class without making an instance of it? (choose one)
+  a. Yes
+
+7. Describe the purpose of overriding a method.
+The purpose of overriding a method allows you to change how to react when the
+method is called on by a subclass since a child class may not necessarily
+react in the same way as the parent
